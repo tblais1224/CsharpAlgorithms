@@ -1,0 +1,11 @@
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\bin\Debug\netcoreapp2.2\plusMinus.deps.json
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\bin\Debug\netcoreapp2.2\plusMinus.runtimeconfig.json
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\bin\Debug\netcoreapp2.2\plusMinus.runtimeconfig.dev.json
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\bin\Debug\netcoreapp2.2\plusMinus.dll
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\bin\Debug\netcoreapp2.2\plusMinus.pdb
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\obj\Debug\netcoreapp2.2\plusMinus.csprojAssemblyReference.cache
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\obj\Debug\netcoreapp2.2\plusMinus.csproj.CoreCompileInputs.cache
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\obj\Debug\netcoreapp2.2\plusMinus.AssemblyInfoInputs.cache
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\obj\Debug\netcoreapp2.2\plusMinus.AssemblyInfo.cs
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\obj\Debug\netcoreapp2.2\plusMinus.dll
+C:\Users\tomal\Documents\c#Code\algorithms\hackerrank\plusMinus\obj\Debug\netcoreapp2.2\plusMinus.pdb
